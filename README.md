@@ -1,2 +1,2 @@
 # my-first-repo
-what is the purpose of the repo
+This is the first repo to play around with
