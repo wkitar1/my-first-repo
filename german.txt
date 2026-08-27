@@ -1,5 +1,5 @@
 1 Eins
-2 Zwei (modified line 2)
-3 Tre (Modified line 3)
+2 Zwei
+3 Tre (Modified to Italian)
 4 Vier
-5 Cinque
+5 Cinque (modified to Italian)
